@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>		
+<head> 
+<!--Depends on what font we want -->
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/ksadoff/brh17/master/style.css">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+<body> 
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> bloop! </title>
+<div class="topnav" id="myTopnav">
+<ul class= "toplist">
+  <li class = "main"><a href="#home">Home</a>
+</li>
+  <li class = "main"class="dropdown">
+    <a
+  href="javascript:void(0)"
+  class="dropbtn">Topics</a>                        
+    <div class="dropdown-content">
+      <a href="#"> Math</a>
+      <a href="#"> History</a>
+      <a href="#"> All Topics</a>
+    </div>
+  </li>
+  <li class = "main"><a href= "#discussion">Discussion</a></li>
+  <li class = "main"style= "float:center"><a href="#search">Search:<input type="text" name="search"></a> </li>
+  <li class = "main" style= "float:right"><a href="#login">Login</a></li>
+  <li class = "main" style= "float:right"><a href="brh17/aboutpage">About</a></li>
+  <li class = "main" style= "float:right"><a href="#contact">Contact</a></li>
+</div>
+</body>
+  <br></br>
+<h1> <p style="font-size:45 px; color: #E0FFFF; font-weight: bold;"> Welcome to <span style= "color:#000000"> bloop!
+  </h1>
+
+<h1 class= "intro">A Social Learning Experience </h1>
+<br>
+ 
+<h1 class = "h2">Login or create an account for personalized content </h1> 
+<br><br><br><br>
+<h2> <p style = "text-align:center; color: #E0FFFF"> Today's sponsored video: </h2>
+<div class="container-fluid">
+<p align= "center"><iframe width="720" height="400" src="https://www.youtube.com/embed/FCNrMtgCoJI" frameborder="0" allowfullscreen></iframe>
+  
+  </form>
+</div>
+        </body>
+  </html>
